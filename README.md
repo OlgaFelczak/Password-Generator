@@ -24,7 +24,9 @@ Users should be able to see a series of prompts for password criteria including:
 User
 Once all prompts are answered, Users should be able to see the generated password written on the page.
 
+
 Additionally:
+
 When Users provided an incorrect length of password then an error should be displayed in an alert and logged to the Chrome DevTools and should no password be generated.
 
 When Users have not selected any character type then an error should be displayed in an alert and logged to the Chrome DevTools and should no password be generated.
